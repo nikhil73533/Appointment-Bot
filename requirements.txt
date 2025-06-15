@@ -1,2 +1,10 @@
 google-genai
 pydantic
+fastapi
+uvicorn
+email
+smtplib
+pyhton-multipart
+python-dotenv
+sqlite3
+pydantic
