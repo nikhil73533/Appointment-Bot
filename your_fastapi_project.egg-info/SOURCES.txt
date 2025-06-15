@@ -1,0 +1,7 @@
+setup.py
+your_fastapi_project.egg-info/PKG-INFO
+your_fastapi_project.egg-info/SOURCES.txt
+your_fastapi_project.egg-info/dependency_links.txt
+your_fastapi_project.egg-info/entry_points.txt
+your_fastapi_project.egg-info/requires.txt
+your_fastapi_project.egg-info/top_level.txt

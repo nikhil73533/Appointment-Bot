@@ -1,0 +1,2 @@
+[console_scripts]
+start-fastapi = app.main:start
