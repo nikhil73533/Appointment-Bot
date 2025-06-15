@@ -20,7 +20,7 @@ const App = () => {
     }
 
     try {
-        const url =  "http://127.0.0.1:8000/qna"
+        const url =  "https://appointment-bot-e3kh.onrender.com/qna"
         console.log(url);
         const response  = await fetch(url,requestOptions);   
         const data=  await response.json();
